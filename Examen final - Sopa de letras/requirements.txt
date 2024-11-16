@@ -1,0 +1,4 @@
+Requerimientos:
+paquetes a instalar ninguno
+importes .json
+
